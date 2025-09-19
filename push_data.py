@@ -50,7 +50,7 @@ class NetworkDataExtract:
 
 if __name__ == "__main__":
     database="NANDI"
-    collection="network"
+    collection="NetworkData"
     obj=NetworkDataExtract()
     records=obj.cv_to_json_converter(file_path="Network_Data\phisingData.csv")
     print(records)

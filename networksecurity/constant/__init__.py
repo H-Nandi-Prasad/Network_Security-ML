@@ -8,7 +8,7 @@ import pandas as pd
 """Data Ingestion related constant star with DATA_INGESTION VAR NAME
 """
 DATA_INGESTION_COLLECTION_NAME: str = "NetworkData"
-DATA_INGESTION_DATABASE_NAME: str = "NANDIAI"
+DATA_INGESTION_DATABASE_NAME: str = "NANDI"
 DATA_INGESTION_DIR_NAME: str = "data_ingestion"
 DATA_INGESTION_FEATURE_STORE_DIR: str = "feature_store"
 DATA_INGESTION_INGESTED_DIR: str = "ingested"

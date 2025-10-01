@@ -1,0 +1,7 @@
+[ 2025-10-01 22:16:07,659 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-10-01 22:16:07,666 ] 107 dagshub - INFO - Accessing as H-Nandi-Prasad
+[ 2025-10-01 22:16:08,685 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/BULLET/Network_Security-ML "HTTP/1.1 404 Not Found"
+[ 2025-10-01 22:16:08,687 ] 107 dagshub - INFO - Repository Network_Security-ML doesn't exist, creating it under current user.
+[ 2025-10-01 22:16:09,301 ] 1025 httpx - INFO - HTTP Request: POST https://dagshub.com/api/v1/user/repos "HTTP/1.1 422 unknown"
+[ 2025-10-01 22:16:09,302 ] 163 dagshub.upload.wrapper - ERROR - Response (422):
+{"message":""}

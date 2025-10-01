@@ -1,0 +1,6 @@
+[ 2025-10-01 22:19:13,014 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-10-01 22:19:13,027 ] 107 dagshub - INFO - Accessing as H-Nandi-Prasad
+[ 2025-10-01 22:19:14,215 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/H-Nandi-Prasad/Network_Security-ML "HTTP/1.1 200 OK"
+[ 2025-10-01 22:19:15,153 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-10-01 22:19:15,158 ] 107 dagshub - INFO - Initialized MLflow to track repo "H-Nandi-Prasad/Network_Security-ML"
+[ 2025-10-01 22:19:15,159 ] 107 dagshub - INFO - Repository H-Nandi-Prasad/Network_Security-ML initialized!
